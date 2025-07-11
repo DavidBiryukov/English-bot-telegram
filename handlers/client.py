@@ -10,7 +10,6 @@ from data.questions import QUESTIONS, VARIANTS, CORRECT
 
 import random
 import re
-import feedparser
 from deep_translator import GoogleTranslator
 import ssl
 import urllib.request
