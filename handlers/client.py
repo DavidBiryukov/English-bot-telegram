@@ -28,7 +28,8 @@ SENTENCE_CORRECT = [
     ['I','have','never','been','to','Paris'],
 ]
 NEW_WORDS = [
-    'apple - яблоко','book - книга','walk - ходить'
+    'by the way - кстати ','since - с тех пор','still - все еще',
+    'instead - вместо этого',
 ]
 
 def translate_text(text:str)->str:
